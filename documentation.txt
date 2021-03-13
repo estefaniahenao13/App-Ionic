@@ -1,0 +1,7 @@
+ionic start componentes blank -> crear proyecto ionic
+
+ionic serve 
+ionic serve--lab ->copilar proyecto
+
+ionic g page pages/inicio --spec=false ->crear una nueva pagina sin formato de pruebas
+
