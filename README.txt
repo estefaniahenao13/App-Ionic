@@ -7,3 +7,4 @@ ionic g "nombre" pages/inicio --spec=false ->crear una nueva pagina sin formato 
 ionic g "nombre carpetado" pages/alert --spec=false ->crear nuevo componenete sin archivo de pruebas
 ionic g module components ->> crear un modulo
 
+comando npm i -> crear carpeta node_modules 
