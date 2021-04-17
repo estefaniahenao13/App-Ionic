@@ -16,6 +16,6 @@ export class ButtonPage implements OnInit {
 
   onClick(){
     this.favorito = !this.favorito
-  }
+  } 
 
 }
